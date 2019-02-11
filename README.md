@@ -7,6 +7,10 @@ TTVFast
 TTVFast efficiently calculates transit times for n-planet systems and the corresponding radial velocities.
 
 
+Recent Update
+=======
+Darin Ragozzine, Eric Ford and Keir Ashby have recently updated the julia version of TTVFast to make it compatible with Julia v1.0. 
+
 Available Versions
 =======
 
